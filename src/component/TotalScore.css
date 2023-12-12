@@ -1,0 +1,16 @@
+.TotalScore h1{
+    font-size: 100px;
+    line-height: 40px;
+    
+
+}
+.TotalScore p{
+    font-size: 24px;
+    font-weight: 500px;
+}
+.TotalScore{
+    max-width: 200px;
+   
+    text-align: center;
+   
+}
